@@ -1,0 +1,9 @@
+{
+  "domain": "apsystems-api",
+  "name": "APSystems API",
+  "documentation": "https://github.com/patsluth/homeassistant-apsystems-api/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": ["@patsluth"],
+  "requirements": [],
+  "version": "1.0.0"
+}

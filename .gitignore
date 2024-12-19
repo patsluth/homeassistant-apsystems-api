@@ -1,0 +1,20 @@
+__pycache__/
+.cache/
+/apidocs/build/
+**/venv
+.DS_Store
+.scannerwork/
+
+.env
+.bash_history
+.ipython/
+
+# User Specific
+*.sublime-workspace
+**/*.code-workspace
+.idea
+/http-request.http
+
+# Visual Studio Code
+.vscode/
+**/.vscode
