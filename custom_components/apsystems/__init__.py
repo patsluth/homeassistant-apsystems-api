@@ -1,1 +1,0 @@
-"""APsystems Chromium Component"""

@@ -17,7 +17,7 @@ This component simplifies the integration of a APsystems inverter:
 Use your apsystemsema.com user to configure the configuration.yaml:
 ```yaml
 sensor:
-  - platform: apsystems
+  - platform: apsystems-id
     authId: apsystemsem_authid
     systemId: apsystemsema_system_id
     ecuId: apsystemsema_ecu_id
